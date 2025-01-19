@@ -41,5 +41,5 @@ This involves:
 - **Tableau**: For data visualization.
 - **Mixed-effects modeling**: To analyze high-dimensional EMA and VR-intervention data.
 
-
-- Colab link for this phase of the project while awaiting more data on timestamps [Reset Process Paper: https://;colab.research.google.com/drive/1fHCbpfaAUySq5QiDHF8vchCEm2jf-xZJ?usp=sharing]
+## Status
+- Currently awaiting more data on timestamps for this project to continue
